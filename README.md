@@ -12,7 +12,7 @@ Outside the digital world, I'm an **adventurer** at heart — **hiking**, **camp
 
 <br>
 
-<img src="https://github.com/cee8/some-chris-images/blob/main/ChrisCodingImage" width=250 height=335 align="right"/>
+<img src="https://github.com/NotLijee/NotLijeeImages" width=400 height=250 align="right"/>
 <p align="left">
       <h3> Tech Stack ⬇️ </h3> </br>
       <img src="https://img.shields.io/badge/python3-3670A0?style=for-the-badge&logo=python&logoColor=white" /> 
