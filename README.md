@@ -7,7 +7,7 @@
 </div>
 
 
-Hi  I'm **Elijah**! I am someone who is deeply passionate about blending tech with creative solutions to make a **positive impact**. My journey is filled with various projects, from **full-stack** websites to **image recognition models**.
+Hi  I'm **Elijah**! I am someone who is deeply passionate about blending tech with creative solutions to make a **positive impact**. My journey is filled with various projects, from **full-stack** mobile app development to **artist database management**.
 Outside the digital world, I'm an **adventurer** at heart — **hiking**, **camping**, training for **triathlons**, capturing the world through my **camera**, and constantly seeking inspiration from **nature**!!
 
 <br>
@@ -36,7 +36,8 @@ Outside the digital world, I'm an **adventurer** at heart — **hiking**, **camp
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
       <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
       <img src="https://img.shields.io/badge/Github Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
-      <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">  
+      <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
+      <img src = "https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff">
 </p>
 
 
