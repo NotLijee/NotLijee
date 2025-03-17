@@ -14,7 +14,7 @@ Outside the digital world, I'm an **adventurer** at heart — **hiking**, **camp
 
 <img src="https://github.com/cee8/some-chris-images/blob/main/ChrisCodingImage" width=250 height=335 align="right"/>
 <p align="left">
-      <h3> My tech stack </h3> </br>
+      <h3> Tech Stack ⬇️ </h3> </br>
       <img src="https://img.shields.io/badge/python3-3670A0?style=for-the-badge&logo=python&logoColor=white" /> 
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white" /> 
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
