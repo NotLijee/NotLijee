@@ -45,9 +45,9 @@ Outside the digital world, I'm an **adventurer** at heart — **hiking**, **camp
 <br>
 <br>
 
-## Connect with me.
+## Connect with me on 
 
-[<img target="_blank" src="https://img.icons8.com/nolan/64/linkedin.png" title="linkedin" width="90" height="90">](https://www.linkedin.com/in/-beaudoin/)
+[<img target="_blank" src="https://img.icons8.com/nolan/64/linkedin.png" title="linkedin" width="90" height="90">](https://www.linkedin.com/in/elijah-senior-233a3b238/)
 [<img src="https://img.icons8.com/nolan/64/twitterx.png" width="90" height="90">](https://twitter.com/chris_beauds)
 
 </div>
