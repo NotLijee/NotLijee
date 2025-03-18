@@ -56,7 +56,7 @@ Outside the digital world, I'm an **adventurer** at heart — **hiking**, **camp
 <br>
 <br>
 
-## Connect with me on LinkedIn
+## Connect with me on LinkedIn!
 
 [<img target="_blank" src="https://github.com/NotLijee/NotLijeeImages/blob/main/LinkedIn_logo_initials.png" title="linkedin" width="90" height="90">](https://www.linkedin.com/in/elijah-senior-233a3b238/)
 
