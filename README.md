@@ -37,7 +37,17 @@ Outside the digital world, I'm an **adventurer** at heart — **hiking**, **camp
       <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
       <img src="https://img.shields.io/badge/Github Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
       <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
-      <img src = "https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff">
+      <img src= "https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff">
+      <img src= "https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=000">
+      <img src= "https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff">
+      <img src= "https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white">
+      <img src= "https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff">
+      <img src= "https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white">
+      <img src= "https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff">
+      <img src= "https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">
+      <img src= "https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
+      <img src= "https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
+      <img src= "https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB">
 </p>
 
 
